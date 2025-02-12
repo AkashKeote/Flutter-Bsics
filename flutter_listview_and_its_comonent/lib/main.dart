@@ -154,24 +154,54 @@ class MyHomePage extends StatelessWidget {
       ),*/
 
 //List View Seoprator
-    body: ListView.separated(
-  itemCount: names.length,
-  itemBuilder: (context, index) {
-    return Text(
-      names[index],
-      style: TextStyle(fontSize: 23, fontWeight: FontWeight.bold),
-    );
-  },
-  separatorBuilder: (context, index) {
-    return Divider(
-      height: 4,
-      thickness: 4,
-    );
-  },
-),
+      body: ListView.separated(
+        itemBuilder: (context, index) {
+          return Row(
+            children: [
+              Column(
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Text(
+                      names[index],
+                      style: TextStyle(color: Color.fromARGB(255, 0, 0, 3),fontSize: 20,fontWeight: FontWeight.bold),
+                    ),
+                  ),
+                  Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: Text(
+                            names[index],
+                            style: TextStyle(color: Color.fromARGB(255, 0, 0, 3),fontSize: 10,fontWeight: FontWeight.bold),
+                          ),
+              ),
 
-        //reverse: true,
-      );
-    
+                ],
+              ),
+
+              
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: Text(
+              names[index],
+              style: TextStyle(color: Color.fromARGB(255, 0, 0, 3),fontSize: 20,fontWeight: FontWeight.bold),
+            ),
+          ),
+            ],
+          );
+
+          
+        },
+        
+        separatorBuilder: (context, index) {
+          return Divider(
+            height: 20,
+            thickness: 4,
+          );
+        },
+        itemCount: names.length,
+      ),
+
+      //reverse: true,
+    );
   }
 }
