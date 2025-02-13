@@ -1,0 +1,4793 @@
+[  {
+  "college_name": "Shri Sant Gajanan Maharaj College of Engineering, Shegaon",
+  "region": "Shegaon",
+  "branch": "Information Technology",
+  "cutoff_percentile": 87.33
+},
+{
+  "college_name": "Shri Sant Gajanan Maharaj College of Engineering, Shegaon",
+  "region": "Shegaon",
+  "branch": "Electrical Engg[Electronics and Power]",
+  "cutoff_percentile": 71.38
+},
+{
+  "college_name": "Shri Sant Gajanan Maharaj College of Engineering, Shegaon",
+  "region": "Shegaon",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 85.28
+},
+{
+  "college_name": "Shri Sant Gajanan Maharaj College of Engineering, Shegaon",
+  "region": "Shegaon",
+  "branch": "Mechanical Engineering",
+  "cutoff_percentile": 70.72
+},
+{
+  "college_name": "Prof. Ram Meghe Institute of Technology & Research, Amravati",
+  "region": "Amravati",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 53.78
+},
+{
+  "college_name": "Prof. Ram Meghe Institute of Technology & Research, Amravati",
+  "region": "Amravati",
+  "branch": "Computer Science and Engineering",
+  "cutoff_percentile": 81.79
+},
+{
+  "college_name": "Prof. Ram Meghe Institute of Technology & Research, Amravati",
+  "region": "Amravati",
+  "branch": "Information Technology",
+  "cutoff_percentile": 78.92
+},
+{
+  "college_name": "Prof. Ram Meghe Institute of Technology & Research, Amravati",
+  "region": "Amravati",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 71.19
+},
+{
+  "college_name": "Prof. Ram Meghe Institute of Technology & Research, Amravati",
+  "region": "Amravati",
+  "branch": "Mechanical Engineering",
+  "cutoff_percentile": 51.64
+},
+{
+  "college_name": "P. R. Pote Patil College of Engineering & Management, Amravati",
+  "region": "Amravati",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 58.63
+},
+{
+  "college_name": "P. R. Pote Patil College of Engineering & Management, Amravati",
+  "region": "Amravati",
+  "branch": "Computer Science and Engineering",
+  "cutoff_percentile": 80.40
+},
+{
+  "college_name": "P. R. Pote Patil College of Engineering & Management, Amravati",
+  "region": "Amravati",
+  "branch": "Electrical Engineering",
+  "cutoff_percentile": 66.67
+},
+{
+  "college_name": "P. R. Pote Patil College of Engineering & Management, Amravati",
+  "region": "Amravati",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 70.55
+},
+{
+  "college_name": "Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",
+  "region": "Amravati",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 53.04
+},
+{
+  "college_name": "Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",
+  "region": "Amravati",
+  "branch": "Artificial Intelligence (AI) and Data Science",
+  "cutoff_percentile": 72.19
+},
+{
+  "college_name": "Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati",
+  "region": "Amravati",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 72.48
+},
+{
+  "college_name": "Shri Shivaji Education Society's College of Engineering and Technology, Akola",
+  "region": "Akola",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 42.07
+},
+{
+  "college_name": "Shri Shivaji Education Society's College of Engineering and Technology, Akola",
+  "region": "Akola",
+  "branch": "Computer Science and Engineering",
+  "cutoff_percentile": 45.89
+},
+{
+  "college_name": "Janata Shikshan Prasarak Mandal’s Babasaheb Naik College Of Engineering, Pusad",
+  "region": "Pusad",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 33.22
+},
+{
+  "college_name": "Janata Shikshan Prasarak Mandal’s Babasaheb Naik College Of Engineering, Pusad",
+  "region": "Pusad",
+  "branch": "Computer Science and Engineering",
+  "cutoff_percentile": 48.52
+},
+{
+  "college_name": "Paramhansa Ramkrishna Maunibaba Shikshan Santha's, Anuradha Engineering College, Chikhali",
+  "region": "Chikhali",
+  "branch": "Computer Science and Engineering",
+  "cutoff_percentile": 61.28
+},
+{
+  "college_name": "Jawaharlal Darda Institute of Engineering and Technology, Yavatmal",
+  "region": "Yavatmal",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 36.05
+},
+{
+  "college_name": "Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati",
+  "region": "Amravati",
+  "branch": "Information Technology",
+  "cutoff_percentile": 61.02
+},
+{
+  "college_name": "Dr. Rajendra Gode Institute of Technology & Research, Amravati",
+  "region": "Amravati",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 54.46
+},
+{
+  "college_name": "Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshi Shahu College of Engineering, Buldhana",
+  "region": "Buldhana",
+  "branch": "Computer Science and Engineering",
+  "cutoff_percentile": 29.29
+},
+{
+  "college_name": "Takshashila Institute of Engineering & Technology, Darapur, Amravati",
+  "region": "Amravati",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 39.42
+},
+{
+  "college_name": "Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi, Nanded",
+  "region": "Nanded",
+  "branch": "Artificial Intelligence (AI) and Data Science",
+  "cutoff_percentile": 30.61
+},
+{
+  "college_name": "Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded",
+  "region": "Nanded",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 72.34
+},
+{
+  "college_name": "Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded",
+  "region": "Nanded",
+  "branch": "Computer Science and Engineering",
+  "cutoff_percentile": 65.90
+},
+{
+  "college_name": "Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded",
+  "region": "Nanded",
+  "branch": "Information Technology",
+  "cutoff_percentile": 60.03
+},
+{
+  "college_name": "Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded",
+  "region": "Nanded",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 39.94
+},
+{
+  "college_name": "K.D.K. College of Engineering, Nagpur",
+  "region": "Nagpur",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 71.58
+},
+{
+  "college_name": "K.D.K. College of Engineering, Nagpur",
+  "region": "Nagpur",
+  "branch": "Computer Science and Engineering",
+  "cutoff_percentile": 67.11
+},
+{
+  "college_name": "K.D.K. College of Engineering, Nagpur",
+  "region": "Nagpur",
+  "branch": "Information Technology",
+  "cutoff_percentile": 59.83
+},
+{
+  "college_name": "K.D.K. College of Engineering, Nagpur",
+  "region": "Nagpur",
+  "branch": "Electrical Engineering",
+  "cutoff_percentile": 63.40
+},
+{
+  "college_name": "K.D.K. College of Engineering, Nagpur",
+  "region": "Nagpur",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 57.81
+},
+{
+  "college_name": "K.D.K. College of Engineering, Nagpur",
+  "region": "Nagpur",
+  "branch": "Mechanical Engineering",
+  "cutoff_percentile": 67.21
+},
+{
+  "college_name": "Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",
+  "region": "Nagpur",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 62.36
+},
+{
+  "college_name": "Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",
+  "region": "Nagpur",
+  "branch": "Computer Science and Engineering",
+  "cutoff_percentile": 54.84
+},
+{
+  "college_name": "Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",
+  "region": "Nagpur",
+  "branch": "Electrical Engineering",
+  "cutoff_percentile": 57.30
+},
+{
+  "college_name": "Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",
+  "region": "Nagpur",
+  "branch": "Mechanical Engineering",
+  "cutoff_percentile": 60.57
+},
+{
+  "college_name": "Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur",
+  "region": "Nagpur",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 55.09
+},
+{
+  "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+  "region": "Pune",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 79.08
+},
+{
+  "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+  "region": "Pune",
+  "branch": "Computer Engineering",
+  "cutoff_percentile": 77.88
+},
+{
+  "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+  "region": "Pune",
+  "branch": "Information Technology",
+  "cutoff_percentile": 70.14
+},
+{
+  "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+  "region": "Pune",
+  "branch": "Electrical Engineering",
+  "cutoff_percentile": 62.88
+},
+{
+  "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+  "region": "Pune",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 49.32
+},
+{
+  "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+  "region": "Pune",
+  "branch": "Mechanical Engineering",
+  "cutoff_percentile": 55.09
+},
+{
+  "college_name": "Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 90.54
+},
+{
+  "college_name": "Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Computer Engineering",
+  "cutoff_percentile": 73.16
+},
+{
+  "college_name": "Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Electrical Engineering",
+  "cutoff_percentile": 75.16
+},
+{
+  "college_name": "Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Mechatronics Engineering",
+  "cutoff_percentile": 80.23
+},
+{
+  "college_name": "Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Electronics and Computer Engineering",
+  "cutoff_percentile": 70.14
+},
+{
+  "college_name": "Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+  "region": "Pimpri",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 92.62
+},
+{
+  "college_name": "Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+  "region": "Pimpri",
+  "branch": "Computer Engineering",
+  "cutoff_percentile": 88.30
+},
+{
+  "college_name": "Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+  "region": "Pimpri",
+  "branch": "Electrical Engineering",
+  "cutoff_percentile": 88.42
+},
+{
+  "college_name": "Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+  "region": "Pimpri",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 74.55
+},
+{
+  "college_name": "Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+  "region": "Pimpri",
+  "branch": "Mechanical Engineering",
+  "cutoff_percentile": 86.12
+},
+{
+  "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+  "region": "Lavale",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 89.23
+},
+{
+  "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+  "region": "Lavale",
+  "branch": "Computer Engineering",
+  "cutoff_percentile": 82.43
+},
+{
+  "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+  "region": "Lavale",
+  "branch": "Electronics and Telecommunication Engg",
+  "cutoff_percentile": 66.67
+},
+{
+  "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+  "region": "Lavale",
+  "branch": "Mechanical Engineering",
+  "cutoff_percentile": 66.67
+},
+{
+  "college_name": "Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 90.54
+},
+{
+  "college_name": "Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Computer Engineering",
+  "cutoff_percentile": 73.16
+},
+{
+  "college_name": "Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Electrical Engineering",
+  "cutoff_percentile": 75.16
+},
+{
+  "college_name": "Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Mechatronics Engineering",
+  "cutoff_percentile": 80.23
+},
+{
+  "college_name": "Sanjivani College of Engineering, Kopargaon",
+  "region": "Kopargaon",
+  "branch": "Electronics and Computer Engineering",
+  "cutoff_percentile": 70.14
+},
+{
+  "college_name": "Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+  "region": "Pimpri",
+  "branch": "Civil Engineering",
+  "cutoff_percentile": 92.62
+},
+{
+  "college_name": "Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+  "region": "Pimpri",
+  "branch": "Computer Engineering",
+  "cutoff_percentile": 88.30
+},
+{
+  "college_name": "Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+  "region": "Pimpri",
+  "branch": "Electrical Engineering",
+  "cutoff_percentile": 88.42
+},
+  {
+    "college_name": "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 88.30
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 88.42
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+    "region": "Pune",
+    "branch": "Instrumentation Engineering",
+    "cutoff_percentile": 74.55
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 82.17
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+    "region": "Pune",
+    "branch": "Automation and Robotics",
+    "cutoff_percentile": 86.12
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 91.99
+  },
+  {
+    "college_name": "K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",
+    "region": "Sangli",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 85.10
+  },
+  {
+    "college_name": "K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",
+    "region": "Sangli",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 72.82
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 4.90
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 42.07
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 53.74
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 2.35
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 57.33
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.04
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 49.43
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 75.79
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.67
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 56.89
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 4.90
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 78.74
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 72.78
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 49.43
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 38.99
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Instrumentation Engineering",
+    "cutoff_percentile": 54.28
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Fashion Technology",
+    "cutoff_percentile": 54.28
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Technical Textiles",
+    "cutoff_percentile": 52.13
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Man Made Textile Technology",
+    "cutoff_percentile": 18.51
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Textile Chemistry",
+    "cutoff_percentile": 46.31
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Textile Chemistry",
+    "cutoff_percentile": 38.99
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Computer Science and Engineering(Artificial)",
+    "cutoff_percentile": 72.78
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 81.01
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 44.05
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 72.73
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 71.38
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 69.41
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 54.84
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 56.89
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 55.73
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 4.90
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 42.07
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 53.74
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 2.35
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 57.33
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.04
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 49.43
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 75.79
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.67
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 56.89
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 4.90
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 78.74
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 72.78
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 49.43
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 38.99
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Instrumentation Engineering",
+    "cutoff_percentile": 54.28
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Fashion Technology",
+    "cutoff_percentile": 54.28
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Technical Textiles",
+    "cutoff_percentile": 52.13
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Man Made Textile Technology",
+    "cutoff_percentile": 18.51
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Textile Chemistry",
+    "cutoff_percentile": 46.31
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Textile Chemistry",
+    "cutoff_percentile": 38.99
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Computer Science and Engineering(Artificial)",
+    "cutoff_percentile": 72.78
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 81.01
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 44.05
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 72.73
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 71.38
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 69.41
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 54.84
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 56.89
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 55.73
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 4.90
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 42.07
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 53.74
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 2.35
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 57.33
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.04
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 49.43
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 75.79
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.67
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 56.89
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 4.90
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 78.74
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 72.78
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 49.43
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 38.99
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Instrumentation Engineering",
+    "cutoff_percentile": 54.28
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Fashion Technology",
+    "cutoff_percentile": 54.28
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Technical Textiles",
+    "cutoff_percentile": 52.13
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Man Made Textile Technology",
+    "cutoff_percentile": 18.51
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Textile Chemistry",
+    "cutoff_percentile": 46.31
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Textile Chemistry",
+    "cutoff_percentile": 38.99
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Computer Science and Engineering(Artificial)",
+    "cutoff_percentile": 72.78
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 81.01
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 44.05
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 72.73
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 71.38
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 69.41
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 54.84
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 56.89
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 55.73
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 4.90
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 42.07
+  },
+  {
+    "college_name": "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions",
+    "region": "Maharashtra",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 53.74
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 2.35
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 57.33
+  },
+  {
+    "college_name": "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.04
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 49.43
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 75.79
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.67
+  },
+  {
+    "college_name": "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur",
+    "region": "Pandharpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 56.89
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 4.90
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 78.74
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 72.78
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 49.43
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 38.99
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Instrumentation Engineering",
+    "cutoff_percentile": 54.28
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Fashion Technology",
+    "cutoff_percentile": 54.28
+  },
+  {
+    "college_name": "Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji",
+    "region": "Ichalkaranji",
+    "branch": "Technical Textiles",
+    "cutoff_percentile": 52.13
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 38.02
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 81.02
+  },
+  {
+    "college_name": "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 44.05
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 72.73
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 69.41
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Chemical Engineering",
+    "cutoff_percentile": 55.73
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 57.81
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering (Artificial Intelligence)",
+    "cutoff_percentile": 72.99
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 68.24
+  },
+  {
+    "college_name": "Walchand Institute of Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 85.54
+  },
+  {
+    "college_name": "Walchand Institute of Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 80.39
+  },
+  {
+    "college_name": "Walchand Institute of Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Information Technology",
+    "cutoff_percentile": 73.72
+  },
+  {
+    "college_name": "Walchand Institute of Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 77.74
+  },
+  {
+    "college_name": "Kolhapur Institute of Technology's College of Engineering (Autonomous), Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Bio Technology",
+    "cutoff_percentile": 74.27
+  },
+  {
+    "college_name": "Kolhapur Institute of Technology's College of Engineering (Autonomous), Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Business Systems",
+    "cutoff_percentile": 83.19
+  },
+  {
+    "college_name": "Kolhapur Institute of Technology's College of Engineering (Autonomous), Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 82.43
+  },
+  {
+    "college_name": "Kolhapur Institute of Technology's College of Engineering (Autonomous), Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 72.78
+  },
+  {
+    "college_name": "Kolhapur Institute of Technology's College of Engineering (Autonomous), Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering (Artificial Intelligence)",
+    "cutoff_percentile": 87.24
+  },
+  {
+    "college_name": "Kolhapur Institute of Technology's College of Engineering (Autonomous), Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Civil and Environmental Engineering",
+    "cutoff_percentile": 50.75
+  },
+  {
+    "college_name": "Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",
+    "region": "Warananagar",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 79.62
+  },
+  {
+    "college_name": "Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",
+    "region": "Warananagar",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 73.08
+  },
+  {
+    "college_name": "Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",
+    "region": "Warananagar",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 69.56
+  },
+  {
+    "college_name": "Tatyasaheb Kore Institute of Engineering and Technology, Warananagar",
+    "region": "Warananagar",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 18.20
+  },
+  {
+    "college_name": "Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",
+    "region": "Budhgaon",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 76.73
+  },
+  {
+    "college_name": "Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",
+    "region": "Budhgaon",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 49.57
+  },
+  {
+    "college_name": "Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",
+    "region": "Budhgaon",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 42.06
+  },
+  {
+    "college_name": "Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",
+    "region": "Budhgaon",
+    "branch": "Chemical Engineering",
+    "cutoff_percentile": 31.69
+  },
+  {
+    "college_name": "Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",
+    "region": "Budhgaon",
+    "branch": "Electronics and Computer Science",
+    "cutoff_percentile": 47.63
+  },
+  {
+    "college_name": "Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli",
+    "region": "Budhgaon",
+    "branch": "Computer Science and Engineering (Artificial Intelligence)",
+    "cutoff_percentile": 46.31
+  },
+  {
+    "college_name": "Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara",
+    "region": "Satara",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 60.05
+  },
+  {
+    "college_name": "Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara",
+    "region": "Satara",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 44.28
+  },
+  {
+    "college_name": "Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara",
+    "region": "Satara",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 56.22
+  },
+  {
+    "college_name": "Pune Institute of Computer Technology",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 98.40
+  },
+  {
+    "college_name": "Pune Institute of Computer Technology",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 98.03
+  },
+  {
+    "college_name": "Pune Institute of Computer Technology",
+    "region": "Pune",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 98.11
+  },
+  {
+    "college_name": "Pune Institute of Computer Technology",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 97.16
+  },
+  {
+    "college_name": "Pune Institute of Computer Technology",
+    "region": "Pune",
+    "branch": "Electronics and Computer Engineering",
+    "cutoff_percentile": 97.87
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Pratishthan's D.Y. Patil College of Engineering, Akurdi, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 80.97
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Pratishthan's D.Y. Patil College of Engineering, Akurdi, Pune",
+    "region": "Pune",
+    "branch": "Robotics and Automation",
+    "cutoff_percentile": 88.99
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Pratishthan's D.Y. Patil College of Engineering, Akurdi, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 98.55
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Pratishthan's D.Y. Patil College of Engineering, Akurdi, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 93.55
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Pratishthan's D.Y. Patil College of Engineering, Akurdi, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 91.20
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Pratishthan's D.Y. Patil College of Engineering, Akurdi, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 82.65
+  },
+  {
+    "college_name": "Dr. D. Y. Patil Pratishthan's D.Y. Patil College of Engineering, Akurdi, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 93.14
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 86.21
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 96.33
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 95.81
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 93.56
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Instrumentation and Control Engineering",
+    "cutoff_percentile": 86.86
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 88.58
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Computer Science and Engineering (Artificial Intelligence)",
+    "cutoff_percentile": 95.49
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 94.51
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Computer Science and Engineering (Artificial Intelligence)",
+    "cutoff_percentile": 94.39
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Computer Science and Engineering (Internet of Things)",
+    "cutoff_percentile": 94.66
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering (Software Engineering)",
+    "cutoff_percentile": 94.41
+  },
+  {
+    "college_name": "Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 94.40
+  },
+  {
+    "college_name": "Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 93.38
+  },
+  {
+    "college_name": "Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 81.67
+  },
+  {
+    "college_name": "Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 88.81
+  },
+  {
+    "college_name": "Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 78.14
+  },
+  {
+    "college_name": "Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune",
+    "region": "Pune",
+    "branch": "Printing and Packing Technology",
+    "cutoff_percentile": 40.05
+  },
+  {
+    "college_name": "Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 92.80
+  },
+  {
+    "college_name": "Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",
+    "region": "Malegaon-Baramati",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 86.09
+  },
+  {
+    "college_name": "Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",
+    "region": "Malegaon-Baramati",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 71.38
+  },
+  {
+    "college_name": "Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",
+    "region": "Malegaon-Baramati",
+    "branch": "Information Technology",
+    "cutoff_percentile": 69.56
+  },
+  {
+    "college_name": "Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",
+    "region": "Malegaon-Baramati",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 71.38
+  },
+  {
+    "college_name": "Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",
+    "region": "Malegaon-Baramati",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 55.05
+  },
+  {
+    "college_name": "Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati",
+    "region": "Malegaon-Baramati",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 55.05
+  },
+  {
+    "college_name": "MKSSS's Cummins College of Engineering for Women, Karvenagar, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 96.74
+  },
+  {
+    "college_name": "MKSSS's Cummins College of Engineering for Women, Karvenagar, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 96.03
+  },
+  {
+    "college_name": "MKSSS's Cummins College of Engineering for Women, Karvenagar, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 95.81
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 30.57
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 66.37
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Information Technology",
+    "cutoff_percentile": 45.42
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 51.13
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 11.77
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 74.57
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Robotics and Automation",
+    "cutoff_percentile": 85.54
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 92.62
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 81.14
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 88.30
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics Engineering (VLSI Design)",
+    "cutoff_percentile": 85.05
+  },
+  {
+    "college_name": "Modern Education Society's Wadia College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 87.28
+  },
+  {
+    "college_name": "Modern Education Society's Wadia College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 82.35
+  },
+  {
+    "college_name": "Modern Education Society's Wadia College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 68.62
+  },
+  {
+    "college_name": "Modern Education Society's Wadia College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Automation and Robotics",
+    "cutoff_percentile": 78.76
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 92.12
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 90.89
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 80.08
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 87.24
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Instrumentation Engineering",
+    "cutoff_percentile": 77.08
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Aeronautical Engineering",
+    "cutoff_percentile": 47.47
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 30.57
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 68.32
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.57
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Food Technology",
+    "cutoff_percentile": 59.68
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Computer Science and Engineering (Internet of Things)",
+    "cutoff_percentile": 65.62
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 83.91
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Information Technology",
+    "cutoff_percentile": 82.33
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 78.16
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 80.27
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 57.31
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 89.23
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 82.43
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 66.67
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 72.73
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.66
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 50.75
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 2.32
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 66.43
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 41.31
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.03
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 55.09
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Electronics Engineering (VLSI Design)",
+    "cutoff_percentile": 41.31
+  },
+  {
+    "college_name": "Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 60.98
+  },
+  {
+    "college_name": "Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 71.34
+  },
+  {
+    "college_name": "Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.62
+  },
+  {
+    "college_name": "Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 55.09
+  },
+  {
+    "college_name": "Shree Gajanan Maharaj Shikshan Prasarak Mandal's Sharadchandra Pawar College of Engineering, Dumbarwadi",
+    "region": "Dumbarwadi",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 51.73
+  },
+  {
+    "college_name": "Shree Gajanan Maharaj Shikshan Prasarak Mandal's Sharadchandra Pawar College of Engineering, Dumbarwadi",
+    "region": "Dumbarwadi",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 35.24
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 29.31
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 50.51
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 48.10
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.62
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.62
+  },
+  {
+    "college_name": "Alard Charitable Trust's Alard College of Engineering and Management, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "Alard Charitable Trust's Alard College of Engineering and Management, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 75.66
+  },
+  {
+    "college_name": "Alard Charitable Trust's Alard College of Engineering and Management, Pune",
+    "region": "Pune",
+    "branch": "Computer Science and Design",
+    "cutoff_percentile": 69.56
+  },
+  {
+    "college_name": "Alard Charitable Trust's Alard College of Engineering and Management, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.66
+  },
+  {
+    "college_name": "Karmayogi Institute of Technology",
+    "region": "Maharashtra",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 65.90
+  },
+  {
+    "college_name": "Karmayogi Institute of Technology",
+    "region": "Maharashtra",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 60.98
+  },
+  {
+    "college_name": "Karmayogi Institute of Technology",
+    "region": "Maharashtra",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Karmayogi Institute of Technology",
+    "region": "Maharashtra",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 65.90
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 57.76
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Artificial Intelligence (AI)",
+    "cutoff_percentile": 51.47
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 51.95
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 34.76
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 82.87
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 73.72
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 59.41
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 76.42
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 60.98
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Robotics and Automation",
+    "cutoff_percentile": 73.72
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 75.83
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 60.97
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 68.22
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 68.22
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 28.05
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 56.04
+  },
+  {
+    "college_name": "Bhagwant Institute of Technology, Barshi",
+    "region": "Barshi",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 26.13
+  },
+  {
+    "college_name": "Bhagwant Institute of Technology, Barshi",
+    "region": "Barshi",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 45.89
+  },
+  {
+    "college_name": "Bhagwant Institute of Technology, Barshi",
+    "region": "Barshi",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Bhagwant Institute of Technology, Barshi",
+    "region": "Barshi",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 68.32
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 38.14
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 46.72
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 55.09
+  },
+  {
+    "college_name": "Nanasaheb Mahadik College of Engineering, Walwa, Sangli",
+    "region": "Sangli",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 42.60
+  },
+  {
+    "college_name": "Nanasaheb Mahadik College of Engineering, Walwa, Sangli",
+    "region": "Sangli",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Nanasaheb Mahadik College of Engineering, Walwa, Sangli",
+    "region": "Sangli",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Phaltan Education Society's College of Engineering, Thakurki, Tal. Phaltan, Dist. Satara",
+    "region": "Satara",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 3.00
+  },
+  {
+    "college_name": "Phaltan Education Society's College of Engineering, Thakurki, Tal. Phaltan, Dist. Satara",
+    "region": "Satara",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 48.61
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 65.90
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 57.76
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Artificial Intelligence (AI)",
+    "cutoff_percentile": 51.47
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 51.95
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 34.76
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 82.87
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 73.72
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 59.41
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 76.42
+  },
+  {
+    "college_name": "MKSSS's Cummins College of Engineering for Women, Karvenagar, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 96.74
+  },
+  {
+    "college_name": "MKSSS's Cummins College of Engineering for Women, Karvenagar, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 96.03
+  },
+  {
+    "college_name": "MKSSS's Cummins College of Engineering for Women, Karvenagar, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 95.81
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 30.57
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 66.37
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Information Technology",
+    "cutoff_percentile": 45.42
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 51.13
+  },
+  {
+    "college_name": "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur",
+    "region": "Jaysingpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 11.77
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 74.57
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Robotics and Automation",
+    "cutoff_percentile": 85.54
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 92.62
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 81.14
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 88.30
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics Engineering (VLSI Design)",
+    "cutoff_percentile": 85.05
+  },
+  {
+    "college_name": "Modern Education Society's Wadia College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 87.28
+  },
+  {
+    "college_name": "Modern Education Society's Wadia College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 82.35
+  },
+  {
+    "college_name": "Modern Education Society's Wadia College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 68.62
+  },
+  {
+    "college_name": "Modern Education Society's Wadia College of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Automation and Robotics",
+    "cutoff_percentile": 78.76
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 92.12
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 90.89
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 80.08
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 87.24
+  },
+  {
+    "college_name": "All India Shri Shivaji Memorial Society's Institute of Information Technology, Pune",
+    "region": "Pune",
+    "branch": "Instrumentation Engineering",
+    "cutoff_percentile": 77.08
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Aeronautical Engineering",
+    "cutoff_percentile": 47.47
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 30.57
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 68.32
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.57
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Food Technology",
+    "cutoff_percentile": 59.68
+  },
+  {
+    "college_name": "Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+    "region": "Sangli",
+    "branch": "Computer Science and Engineering (Internet of Things)",
+    "cutoff_percentile": 65.62
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 83.91
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Information Technology",
+    "cutoff_percentile": 82.33
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 78.16
+  },
+  {
+    "college_name": "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati",
+    "region": "Baramati",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 80.27
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 57.31
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 89.23
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 82.43
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 66.67
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 72.73
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.66
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "D.Y. Patil College of Engineering and Technology, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 50.75
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 2.32
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 66.43
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 41.31
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.03
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 55.09
+  },
+  {
+    "college_name": "K.J.'s Educational Institute's K.J. College of Engineering & Management Research, Pisoli",
+    "region": "Pune",
+    "branch": "Electronics Engineering (VLSI Design)",
+    "cutoff_percentile": 41.31
+  },
+  {
+    "college_name": "Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 60.98
+  },
+  {
+    "college_name": "Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 71.34
+  },
+  {
+    "college_name": "Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.62
+  },
+  {
+    "college_name": "Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur",
+    "region": "Solapur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 55.09
+  },
+  {
+    "college_name": "Shree Gajanan Maharaj Shikshan Prasarak Mandal's Sharadchandra Pawar College of Engineering, Dumbarwadi",
+    "region": "Dumbarwadi",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 51.73
+  },
+  {
+    "college_name": "Shree Gajanan Maharaj Shikshan Prasarak Mandal's Sharadchandra Pawar College of Engineering, Dumbarwadi",
+    "region": "Dumbarwadi",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 35.24
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 29.31
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 50.51
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 48.10
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.62
+  },
+  {
+    "college_name": "Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor",
+    "region": "Bhor",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.62
+  },
+  {
+    "college_name": "Alard Charitable Trust's Alard College of Engineering and Management, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "Alard Charitable Trust's Alard College of Engineering and Management, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 75.66
+  },
+  {
+    "college_name": "Alard Charitable Trust's Alard College of Engineering and Management, Pune",
+    "region": "Pune",
+    "branch": "Computer Science and Design",
+    "cutoff_percentile": 69.56
+  },
+  {
+    "college_name": "Alard Charitable Trust's Alard College of Engineering and Management, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.66
+  },
+  {
+    "college_name": "Karmayogi Institute of Technology",
+    "region": "Maharashtra",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 65.90,
+    "college_code":  "8056"
+  },
+  {
+    "college_name": "Karmayogi Institute of Technology",
+    "region": "Maharashtra",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 60.98
+  },
+  {
+    "college_name": "Karmayogi Institute of Technology",
+    "region": "Maharashtra",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Karmayogi Institute of Technology",
+    "region": "Maharashtra",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 65.90
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 57.76
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Artificial Intelligence (AI)",
+    "cutoff_percentile": 51.47
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 51.95
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 34.76
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 82.87
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 73.72
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 59.41
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 76.42
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 60.98
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Robotics and Automation",
+    "cutoff_percentile": 73.72
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 75.83
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 60.97
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 68.22
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 28.05
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 56.04
+  },
+  {
+    "college_name": "Bhagwant Institute of Technology, Barshi",
+    "region": "Barshi",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 26.13
+  },
+  {
+    "college_name": "Bhagwant Institute of Technology, Barshi",
+    "region": "Barshi",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 45.89
+  },
+  {
+    "college_name": "Bhagwant Institute of Technology, Barshi",
+    "region": "Barshi",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Bhagwant Institute of Technology, Barshi",
+    "region": "Barshi",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 68.32
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 38.14
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 46.72
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 55.09
+  },
+  {
+    "college_name": "Nanasaheb Mahadik College of Engineering, Walwa, Sangli",
+    "region": "Sangli",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 42.60
+  },
+  {
+    "college_name": "Nanasaheb Mahadik College of Engineering, Walwa, Sangli",
+    "region": "Sangli",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Nanasaheb Mahadik College of Engineering, Walwa, Sangli",
+    "region": "Sangli",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Phaltan Education Society's College of Engineering, Thakurki, Tal. Phaltan, Dist. Satara",
+    "region": "Satara",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 3.00
+  },
+  {
+    "college_name": "Phaltan Education Society's College of Engineering, Thakurki, Tal. Phaltan, Dist. Satara",
+    "region": "Satara",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 48.61
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 65.90
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 57.76
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Artificial Intelligence (AI)",
+    "cutoff_percentile": 51.47
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 51.95
+  },
+  {
+    "college_name": "Jaihind College Of Engineering, Kuran",
+    "region": "Kuran",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 34.76
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 82.87
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 73.72
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 59.41
+  },
+  {
+    "college_name": "ISBM College Of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 76.42
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 60.98
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Robotics and Automation",
+    "cutoff_percentile": 73.72
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 75.83
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 60.97
+  },
+  {
+    "college_name": "Zeal Education Society's Zeal College of Engineering & Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 68.22
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 28.05
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "D.Y. Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 56.04
+  },
+  {
+    "college_name": "Universal College of Engineering & Research, Sasewadi",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 76.42
+  },
+  {
+    "college_name": "Universal College of Engineering & Research, Sasewadi",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 70.58
+  },
+  {
+    "college_name": "Universal College of Engineering & Research, Sasewadi",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 30.95
+  },
+  {
+    "college_name": "Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 43.65
+  },
+  {
+    "college_name": "Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 57.31
+  },
+  {
+    "college_name": "Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 20.22
+  },
+  {
+    "college_name": "Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 6.24
+  },
+  {
+    "college_name": "Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",
+    "region": "Pune",
+    "branch": "Electronics and Computer Engineering",
+    "cutoff_percentile": 39.30
+  },
+  {
+    "college_name": "Navsahyadri Education Society's Group of Institutions",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 13.38
+  },
+  {
+    "college_name": "Navsahyadri Education Society's Group of Institutions",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 61.02
+  },
+  {
+    "college_name": "Navsahyadri Education Society's Group of Institutions",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 13.67
+  },
+  {
+    "college_name": "Navsahyadri Education Society's Group of Institutions",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 49.23
+  },
+  {
+    "college_name": "Navsahyadri Education Society's Group of Institutions",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 56.07
+  },
+  {
+    "college_name": "KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 33.33
+  },
+  {
+    "college_name": "KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 76.58
+  },
+  {
+    "college_name": "KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 72.41
+  },
+  {
+    "college_name": "KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 67.95
+  },
+  {
+    "college_name": "KJEI's Trinity Academy of Engineering, Yewalewadi, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 40.35
+  },
+  {
+    "college_name": "Samarth College of Engineering and Management",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 6.07
+  },
+  {
+    "college_name": "Samarth College of Engineering and Management",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 50.82
+  },
+  {
+    "college_name": "Samarth College of Engineering and Management",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.03
+  },
+  {
+    "college_name": "Samarth College of Engineering and Management",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 43.44
+  },
+  {
+    "college_name": "Samarth College of Engineering and Management",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 30.67
+  },
+  {
+    "college_name": "Samarth College of Engineering and Management",
+    "region": "Pune",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 54.85
+  },
+  {
+    "college_name": "Samarth College of Engineering and Management",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 47.47
+  },
+  {
+    "college_name": "N. B. Navale Sinhgad College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "N. B. Navale Sinhgad College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 41.31
+  },
+  {
+    "college_name": "N. B. Navale Sinhgad College of Engineering, Kegaon, Solapur",
+    "region": "Solapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 33.07
+  },
+  {
+    "college_name": "S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist. Solapur",
+    "region": "Solapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 29.62
+  },
+  {
+    "college_name": "S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist. Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 99.08
+  },
+  {
+    "college_name": "S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist. Solapur",
+    "region": "Solapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 58.87
+  },
+  {
+    "college_name": "S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist. Solapur",
+    "region": "Solapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 40.01
+  },
+  {
+    "college_name": "Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj",
+    "region": "Miraj",
+    "branch": "Computer Science and Engineering (Artificial Intelligence)",
+    "cutoff_percentile": 5.01
+  },
+  {
+    "college_name": "TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 43.77
+  },
+  {
+    "college_name": "TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 75.49
+  },
+  {
+    "college_name": "TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 57.98
+  },
+  {
+    "college_name": "TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 69.51
+  },
+  {
+    "college_name": "TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 55.10
+  },
+  {
+    "college_name": "Ajeenkya DY Patil School of Engineering, Lohegaon, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 65.90
+  },
+  {
+    "college_name": "Ajeenkya DY Patil School of Engineering, Lohegaon, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 86.26
+  },
+  {
+    "college_name": "Ajeenkya DY Patil School of Engineering, Lohegaon, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 76.89
+  },
+  {
+    "college_name": "Ajeenkya DY Patil School of Engineering, Lohegaon, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 63.40
+  },
+  {
+    "college_name": "International Institute of Information Technology (I²IT), Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 92.65
+  },
+  {
+    "college_name": "International Institute of Information Technology (I²IT), Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 91.10
+  },
+  {
+    "college_name": "International Institute of Information Technology (I²IT), Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 90.59
+  },
+  {
+    "college_name": "JSPM Narhe Technical Campus, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 49.24
+  },
+  {
+    "college_name": "JSPM Narhe Technical Campus, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 82.36
+  },
+  {
+    "college_name": "JSPM Narhe Technical Campus, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 81.04
+  },
+  {
+    "college_name": "JSPM Narhe Technical Campus, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 76.46
+  },
+  {
+    "college_name": "JSPM Narhe Technical Campus, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 57.32
+  },
+  {
+    "college_name": "Fabtech Technical Campus College of Engineering and Research, Sangola",
+    "region": "Sangola",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 24.30
+  },
+  {
+    "college_name": "Fabtech Technical Campus College of Engineering and Research, Sangola",
+    "region": "Sangola",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 39.94
+  },
+  {
+    "college_name": "Fabtech Technical Campus College of Engineering and Research, Sangola",
+    "region": "Sangola",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 47.91
+  },
+  {
+    "college_name": "Fabtech Technical Campus College of Engineering and Research, Sangola",
+    "region": "Sangola",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 25.69
+  },
+  {
+    "college_name": "Fabtech Technical Campus College of Engineering and Research, Sangola",
+    "region": "Sangola",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 28.97
+  },
+  {
+    "college_name": "Fabtech Technical Campus College of Engineering and Research, Sangola",
+    "region": "Sangola",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 60.29
+  },
+  {
+    "college_name": "Yashoda Technical Campus, Wadhe, Satara",
+    "region": "Satara",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 3.09
+  },
+  {
+    "college_name": "Yashoda Technical Campus, Wadhe, Satara",
+    "region": "Satara",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 46.40
+  },
+  {
+    "college_name": "Yashoda Technical Campus, Wadhe, Satara",
+    "region": "Satara",
+    "branch": "Computer Science and Engineering (Cyber Security)",
+    "cutoff_percentile": 39.35
+  },
+  {
+    "college_name": "Yashoda Technical Campus, Wadhe, Satara",
+    "region": "Satara",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 66.27
+  },
+  {
+    "college_name": "Yashoda Technical Campus, Wadhe, Satara",
+    "region": "Satara",
+    "branch": "Robotics and Artificial Intelligence",
+    "cutoff_percentile": 48.78
+  },
+  {
+    "college_name": "Yashoda Technical Campus, Wadhe, Satara",
+    "region": "Satara",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 45.44
+  },
+  {
+    "college_name": "Yashoda Technical Campus, Wadhe, Satara",
+    "region": "Satara",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 33.10
+  },
+  {
+    "college_name": "Sahyadri Valley College of Engineering & Technology, Rajuri, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 60.98
+  },
+  {
+    "college_name": "Sahyadri Valley College of Engineering & Technology, Rajuri, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 49.63
+  },
+  {
+    "college_name": "Sahyadri Valley College of Engineering & Technology, Rajuri, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 62.22
+  },
+  {
+    "college_name": "Sahyadri Valley College of Engineering & Technology, Rajuri, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 59.05
+  },
+  {
+    "college_name": "Sahyadri Valley College of Engineering & Technology, Rajuri, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 52.47
+  },
+  {
+    "college_name": "Sahyadri Valley College of Engineering & Technology, Rajuri, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 53.41
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 68.32
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 38.14
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 46.72
+  },
+  {
+    "college_name": "Shree Ramchandra College of Engineering, Lonikand, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 58.32
+  },
+  {
+    "college_name": "Nanasaheb Mahadik College of Engineering, Walwa, Sangli",
+    "region": "Sangli",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 42.60
+  },
+  {
+    "college_name": "Phaltan Education Society's College of Engineering, Thakurki Tal. Phaltan Dist. Satara",
+    "region": "Satara",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 3.00
+  },
+  {
+    "college_name": "Phaltan Education Society's College of Engineering, Thakurki Tal. Phaltan Dist. Satara",
+    "region": "Satara",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 48.61
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 48.10
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 24.77
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 52.96
+  },
+  {
+    "college_name": "Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 46.08
+  },
+  {
+    "college_name": "P.K. Technical Campus, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 62.88
+  },
+  {
+    "college_name": "P.K. Technical Campus, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 14.63
+  },
+  {
+    "college_name": "Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 47.42
+  },
+  {
+    "college_name": "Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 78.91
+  },
+  {
+    "college_name": "Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 51.75
+  },
+  {
+    "college_name": "SKN Sinhgad Institute of Technology & Science, Kusgaon(BK), Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 75.99
+  },
+  {
+    "college_name": "SKN Sinhgad Institute of Technology & Science, Kusgaon(BK), Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 74.60
+  },
+  {
+    "college_name": "Flora Institute of Technology, Khopi, Near Khed Shivapur Toll Plaza, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 52.97
+  },
+  {
+    "college_name": "Flora Institute of Technology, Khopi, Near Khed Shivapur Toll Plaza, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 13.36
+  },
+  {
+    "college_name": "NBN Sinhgad Technical Institutes Campus, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 84.69
+  },
+  {
+    "college_name": "NBN Sinhgad Technical Institutes Campus, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 83.21
+  },
+  {
+    "college_name": "NBN Sinhgad Technical Institutes Campus, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 64.42
+  },
+  {
+    "college_name": "NBN Sinhgad Technical Institutes Campus, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 76.35
+  },
+  {
+    "college_name": "NBN Sinhgad Technical Institutes Campus, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 56.92
+  },
+  {
+    "college_name": "D.Y.Patil Education Society's, D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 28.05
+  },
+  {
+    "college_name": "D.Y.Patil Education Society's, D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "D.Y.Patil Education Society's, D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.32
+  },
+  {
+    "college_name": "D.Y.Patil Education Society's, D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 21.09
+  },
+  {
+    "college_name": "D.Y.Patil Education Society's, D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management, Talsande, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 56.04
+  },
+  {
+    "college_name": "Bhagwant Institute of Technology, Barshi",
+    "region": "Barshi",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 26.13
+  },
+  {
+    "college_name": "Sahakar Maharshee Shankarrao Mohite Patil Institute of Technology & Research, Akluj",
+    "region": "Akluj",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 36.52
+  },
+  {
+    "college_name": "Anantrao Pawar College of Engineering & Research, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 41.32
+  },
+  {
+    "college_name": "Anantrao Pawar College of Engineering & Research, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 76.09
+  },
+  {
+    "college_name": "Anantrao Pawar College of Engineering & Research, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 70.86
+  },
+  {
+    "college_name": "Anantrao Pawar College of Engineering & Research, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 69.15
+  },
+  {
+    "college_name": "Anantrao Pawar College of Engineering & Research, Pune",
+    "region": "Pune",
+    "branch": "Electronics Engineering (VLSI Design and Technology)",
+    "cutoff_percentile": 57.30
+  },
+  {
+    "college_name": "Anantrao Pawar College of Engineering & Research, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 47.76
+  },
+  {
+    "college_name": "Anantrao Pawar College of Engineering & Research, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Communication (Advanced Communication Systems)",
+    "cutoff_percentile": 55.59
+  },
+  {
+    "college_name": "Anantrao Pawar College of Engineering & Research, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 78.22
+  },
+  {
+    "college_name": "Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 18.87
+  },
+  {
+    "college_name": "Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 45.89
+  },
+  {
+    "college_name": "Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 11.70
+  },
+  {
+    "college_name": "Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 39.94
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 57.31
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 89.23
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 82.43
+  },
+  {
+    "college_name": "Bharati Vidyapeeth's College of Engineering, Lavale, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 66.67
+  },
+  {
+    "college_name": "Dnyanshree Institute Engineering and Technology, Satara",
+    "region": "Satara",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 29.83
+  },
+  {
+    "college_name": "Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj",
+    "region": "Miraj",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 64.47
+  },
+  {
+    "college_name": "Sant Gajanan Maharaj College of Engineering, Gadhinglaj",
+    "region": "Gadhinglaj",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 54.84
+  },
+  {
+    "college_name": "Sant Gajanan Maharaj College of Engineering, Gadhinglaj",
+    "region": "Gadhinglaj",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 43.24
+  },
+  {
+    "college_name": "Sant Gajanan Maharaj College of Engineering, Gadhinglaj",
+    "region": "Gadhinglaj",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 43.24
+  },
+  {
+    "college_name": "Keystone School of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 63.22
+  },
+  {
+    "college_name": "Keystone School of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 66.26
+  },
+  {
+    "college_name": "Keystone School of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 59.68
+  },
+  {
+    "college_name": "Keystone School of Engineering, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 36.57
+  },
+  {
+    "college_name": "Sanjay Ghodawat Institute",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 65.90
+  },
+  {
+    "college_name": "Sanjay Ghodawat Institute",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 24.30
+  },
+  {
+    "college_name": "Sanjay Ghodawat Institute",
+    "region": "Kolhapur",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 56.89
+  },
+  {
+    "college_name": "Vidya Prasarini Sabha's College of Engineering & Technology, Lonavala",
+    "region": "Lonavala",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 60.98
+  },
+  {
+    "college_name": "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",
+    "region": "Ravet",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 71.34
+  },
+  {
+    "college_name": "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",
+    "region": "Ravet",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 92.16
+  },
+  {
+    "college_name": "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",
+    "region": "Ravet",
+    "branch": "Information Technology",
+    "cutoff_percentile": 92.46
+  },
+  {
+    "college_name": "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",
+    "region": "Ravet",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 90.25
+  },
+  {
+    "college_name": "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",
+    "region": "Ravet",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 83.78
+  },
+  {
+    "college_name": "Dr.D.Y.Patil College Of Engineering & Innovation, Talegaon",
+    "region": "Talegaon",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 73.23
+  },
+  {
+    "college_name": "Dr.D.Y.Patil College Of Engineering & Innovation, Talegaon",
+    "region": "Talegaon",
+    "branch": "Artificial Intelligence (AI) and Data Science",
+    "cutoff_percentile": 79.86
+  },
+  {
+    "college_name": "Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 6.53
+  },
+  {
+    "college_name": "Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 60.28
+  },
+  {
+    "college_name": "Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 29.56
+  },
+  {
+    "college_name": "Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur",
+    "region": "Kolhapur",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 57.98
+  },
+  {
+    "college_name": "Dr. A. D. Shinde College Of Engineering, Tal. Gadhinglaj, Kolhapur",
+    "region": "Gadhinglaj",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 3.87
+  },
+  {
+    "college_name": "Dr. A. D. Shinde College Of Engineering, Tal. Gadhinglaj, Kolhapur",
+    "region": "Gadhinglaj",
+    "branch": "Computer Science and Engineering (Artificial Intelligence)",
+    "cutoff_percentile": 24.23
+  },
+  {
+    "college_name": "MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi",
+    "region": "Barshi",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 50.64
+  },
+  {
+    "college_name": "MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi",
+    "region": "Barshi",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 6.02
+  },
+  {
+    "college_name": "MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi",
+    "region": "Barshi",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 38.41
+  },
+  {
+    "college_name": "Shree Siddheshwar Women's College Of Engineering, Solapur",
+    "region": "Solapur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 0.29
+  },
+  {
+    "college_name": "Shree Siddheshwar Women's College Of Engineering, Solapur",
+    "region": "Solapur",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 29.62
+  },
+  {
+    "college_name": "Shree Siddheshwar Women's College Of Engineering, Solapur",
+    "region": "Solapur",
+    "branch": "Computer Science and Engineering (Artificial Intelligence)",
+    "cutoff_percentile": 42.45
+  },
+  {
+    "college_name": "Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune",
+    "region": "Talegaon",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 72.73
+  },
+  {
+    "college_name": "Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune",
+    "region": "Talegaon",
+    "branch": "Computer Science",
+    "cutoff_percentile": 72.11
+  },
+  {
+    "college_name": "Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune",
+    "region": "Talegaon",
+    "branch": "Electronics and Computer Engineering",
+    "cutoff_percentile": 66.04
+  },
+  {
+    "college_name": "Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune",
+    "region": "Talegaon",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 72.96
+  },
+  {
+    "college_name": "Laxminarayan Innovation Technological University, Nagpur",
+    "region": "Nagpur",
+    "branch": "Plastic and Polymer Engineering",
+    "cutoff_percentile": 81.77
+  },
+  {
+    "college_name": "Laxminarayan Innovation Technological University, Nagpur",
+    "region": "Nagpur",
+    "branch": "Food Technology",
+    "cutoff_percentile": 86.52
+  },
+  {
+    "college_name": "Laxminarayan Innovation Technological University, Nagpur",
+    "region": "Nagpur",
+    "branch": "Chemical Engineering",
+    "cutoff_percentile": 84.64
+  },
+  {
+    "college_name": "Laxminarayan Innovation Technological University, Nagpur",
+    "region": "Nagpur",
+    "branch": "Paper and Pulp Technology",
+    "cutoff_percentile": 53.04
+  },
+  {
+    "college_name": "Laxminarayan Innovation Technological University, Nagpur",
+    "region": "Nagpur",
+    "branch": "Petro Chemical Engineering",
+    "cutoff_percentile": 76.83
+  },
+  {
+    "college_name": "Laxminarayan Innovation Technological University, Nagpur",
+    "region": "Nagpur",
+    "branch": "Oil Technology",
+    "cutoff_percentile": 66.67
+  },
+  {
+    "college_name": "Laxminarayan Innovation Technological University, Nagpur",
+    "region": "Nagpur",
+    "branch": "Surface Coating Technology",
+    "cutoff_percentile": 82.35
+  },
+  {
+    "college_name": "COEP Technological University",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 96.34
+  },
+  {
+    "college_name": "COEP Technological University",
+    "region": "Pune",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 99.30
+  },
+  {
+    "college_name": "COEP Technological University",
+    "region": "Pune",
+    "branch": "Robotics and Artificial Intelligence",
+    "cutoff_percentile": 98.76
+  },
+  {
+    "college_name": "COEP Technological University",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 98.05
+  },
+  {
+    "college_name": "COEP Technological University",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engineering",
+    "cutoff_percentile": 98.53
+  },
+  {
+    "college_name": "COEP Technological University",
+    "region": "Pune",
+    "branch": "Instrumentation and Control Engineering",
+    "cutoff_percentile": 97.62
+  },
+  {
+    "college_name": "COEP Technological University",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 97.05
+  },
+  {
+    "college_name": "COEP Technological University",
+    "region": "Pune",
+    "branch": "Manufacturing Science and Engineering",
+    "cutoff_percentile": 96.37
+  },
+  {
+    "college_name": "COEP Technological University",
+    "region": "Pune",
+    "branch": "Metallurgy and Material Technology",
+    "cutoff_percentile": 95.43
+  },
+  {
+    "college_name": "Tatyasaheb Kore Institute of Engineering and Technology, Yelur",
+    "region": "Yelur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 44.56
+  },
+  {
+    "college_name": "Tatyasaheb Kore Institute of Engineering and Technology, Yelur",
+    "region": "Yelur",
+    "branch": "Cyber Security",
+    "cutoff_percentile": 22.81
+  },
+  {
+    "college_name": "Tatyasaheb Kore Institute of Engineering and Technology, Yelur",
+    "region": "Yelur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 36.05
+  },
+  {
+    "college_name": "Tatyasaheb Kore Institute of Engineering and Technology, Yelur",
+    "region": "Yelur",
+    "branch": "Cyber Security",
+    "cutoff_percentile": 22.81
+  },
+  {
+    "college_name": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 60.2278410
+  },
+  {
+    "college_name": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 86.9932576
+  },
+  {
+    "college_name": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",
+    "region": "Nagpur",
+    "branch": "Information Technology",
+    "cutoff_percentile": 81.1206661
+  },
+  {
+    "college_name": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering (IoT)",
+    "cutoff_percentile": 78.6760812
+  },
+  {
+    "college_name": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 77.3255329
+  },
+  {
+    "college_name": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics Engineering",
+    "cutoff_percentile": 74.5733907
+  },
+  {
+    "college_name": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering (Artificial)",
+    "cutoff_percentile": 87.5195969
+  },
+  {
+    "college_name": "Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur",
+    "region": "Nagpur",
+    "branch": "Data Science",
+    "cutoff_percentile": 80.3777053
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering & Management, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 55.9222212
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering & Management, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 82.0169298
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering & Management, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 72.8491059
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering & Management, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 76.0877028
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering & Management, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 57.3147779
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering & Management, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering (Cyber)",
+    "cutoff_percentile": 85.1042245
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering & Management, Nagpur",
+    "region": "Nagpur",
+    "branch": "Artificial Intelligence",
+    "cutoff_percentile": 77.4599403
+  },
+  {
+    "college_name": "G.H.Raisoni College of Engineering & Management, Wagholi, Pune",
+    "region": "Pune",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 59.3903304
+  },
+  {
+    "college_name": "G.H.Raisoni College of Engineering & Management, Wagholi, Pune",
+    "region": "Pune",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 88.3197572
+  },
+  {
+    "college_name": "G.H.Raisoni College of Engineering & Management, Wagholi, Pune",
+    "region": "Pune",
+    "branch": "Information Technology",
+    "cutoff_percentile": 85.0499220
+  },
+  {
+    "college_name": "G.H.Raisoni College of Engineering & Management, Wagholi, Pune",
+    "region": "Pune",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 78.9149832
+  },
+  {
+    "college_name": "G.H.Raisoni College of Engineering & Management, Wagholi, Pune",
+    "region": "Pune",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 84.6185669
+  },
+  {
+    "college_name": "G.H.Raisoni College of Engineering & Management, Wagholi, Pune",
+    "region": "Pune",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 65.8994288
+  },
+  {
+    "college_name": "G.H.Raisoni College of Engineering & Management, Wagholi, Pune",
+    "region": "Pune",
+    "branch": "Computer Science and Engineering (Artificial)",
+    "cutoff_percentile": 86.5946439
+  },
+  {
+    "college_name": "G.H.Raisoni College of Engineering & Management, Wagholi, Pune",
+    "region": "Pune",
+    "branch": "Computer Science and Engineering (Artificial)",
+    "cutoff_percentile": 85.0499220
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering and Management, Jalgaon",
+    "region": "Jalgaon",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 15.9083993
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering and Management, Jalgaon",
+    "region": "Jalgaon",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 65.7022258
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering and Management, Jalgaon",
+    "region": "Jalgaon",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 50.5062748
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering and Management, Jalgaon",
+    "region": "Jalgaon",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 54.8390756
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering and Management, Jalgaon",
+    "region": "Jalgaon",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 32.9231840
+  },
+  {
+    "college_name": "G H Raisoni College of Engineering and Management, Jalgaon",
+    "region": "Jalgaon",
+    "branch": "Computer Science and Engineering (Artificial)",
+    "cutoff_percentile": 84.6620075
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 64.3372475
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 89.5594918
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Information Technology",
+    "cutoff_percentile": 83.9824953
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Technology",
+    "cutoff_percentile": 86.5071035
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electrical Engineering (Electronics and Power)",
+    "cutoff_percentile": 73.1574211
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 82.9600037
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics Engineering",
+    "cutoff_percentile": 79.3129321
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics Engineering (VLSI Design)",
+    "cutoff_percentile": 78.5483611
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 72.0892836
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering (Artificial)",
+    "cutoff_percentile": 88.3903935
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 83.5894145
+  },
+  {
+    "college_name": "Anjuman College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 76.7160199
+  },
+  {
+    "college_name": "Anjuman College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 41.3788891
+  },
+  {
+    "college_name": "Anjuman College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 56.8895744
+  },
+  {
+    "college_name": "Anjuman College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 42.4493618
+  },
+  {
+    "college_name": "ST. Vincent Pallotti College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering (Cyber)",
+    "cutoff_percentile": 83.5731872
+  },
+  {
+    "college_name": "ST. Vincent Pallotti College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Business Systems",
+    "cutoff_percentile": 81.0122069
+  },
+  {
+    "college_name": "ST. Vincent Pallotti College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 77.1867887
+  },
+  {
+    "college_name": "ST. Vincent Pallotti College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 62.8786263
+  },
+  {
+    "college_name": "JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha",
+    "region": "Wardha",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 31.6871967
+  },
+  {
+    "college_name": "JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha",
+    "region": "Wardha",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 37.6014199
+  },
+  {
+    "college_name": "Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 46.0832398
+  },
+  {
+    "college_name": "Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Information Technology",
+    "cutoff_percentile": 75.3388801
+  },
+  {
+    "college_name": "Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Communication",
+    "cutoff_percentile": 61.0757290
+  },
+  {
+    "college_name": "Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 57.8069025
+  },
+  {
+    "college_name": "Swaminarayan Siddhanta Institute Of Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 15.4858883
+  },
+  {
+    "college_name": "Swaminarayan Siddhanta Institute Of Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 28.7732713
+  },
+  {
+    "college_name": "Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",
+    "region": "Ballarpur",
+    "branch": "Food Technology",
+    "cutoff_percentile": 9.6129001
+  },
+  {
+    "college_name": "Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 30.9483531
+  },
+  {
+    "college_name": "K.D.M. Education Society, Vidharbha Institute of Technology, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 38.0226644
+  },
+  {
+    "college_name": "K.D.M. Education Society, Vidharbha Institute of Technology, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 43.5428977
+  },
+  {
+    "college_name": "K.D.M. Education Society, Vidharbha Institute of Technology, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 32.9231840
+  },
+  {
+    "college_name": "Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 2.8013935
+  },
+  {
+    "college_name": "Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 42.0646645
+  },
+  {
+    "college_name": "Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 32.5587952
+  },
+  {
+    "college_name": "V M Institute of Engineering and Technology, Dongargaon, Nagpur",
+    "region": "Dongargaon",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 50.7538718
+  },
+  {
+    "college_name": "V M Institute of Engineering and Technology, Dongargaon, Nagpur",
+    "region": "Dongargaon",
+    "branch": "Information Technology",
+    "cutoff_percentile": 31.0231213
+  },
+{
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 49.4291847
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 64.3372475
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 89.5594918
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Information Technology",
+    "cutoff_percentile": 83.9824953
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Technology",
+    "cutoff_percentile": 86.5071035
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electrical Engineering (Electronics and Power)",
+    "cutoff_percentile": 73.1574211
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 82.9600037
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics Engineering",
+    "cutoff_percentile": 79.3129321
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics Engineering (VLSI Design)",
+    "cutoff_percentile": 78.5483611
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 72.0892836
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering (Artificial)",
+    "cutoff_percentile": 88.3903935
+  },
+  {
+    "college_name": "Yeshwantrao Chavan College of Engineering, Wanadongri, Nagpur",
+    "region": "Nagpur",
+    "branch": "Artificial Intelligence and Data Science",
+    "cutoff_percentile": 83.5894145
+  },
+  {
+    "college_name": "Anjuman College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 76.7160199
+  },
+  {
+    "college_name": "Anjuman College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 41.3788891
+  },
+  {
+    "college_name": "Anjuman College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 56.8895744
+  },
+  {
+    "college_name": "Anjuman College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 42.4493618
+  },
+  {
+    "college_name": "ST. Vincent Pallotti College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering (Cyber)",
+    "cutoff_percentile": 83.5731872
+  },
+  {
+    "college_name": "ST. Vincent Pallotti College of Engineering & Technology", 
+    "region" : "Nagpur",
+    "branch": "Computer Science and Business Systems",
+    "cutoff_percentile": 81.0122069
+  },
+  {
+    "college_name": "ST. Vincent Pallotti College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 77.1867887
+  },
+  {
+    "college_name": "ST. Vincent Pallotti College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 62.8786263
+  },
+  {
+    "college_name": "JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha",
+    "region": "Wardha",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 31.6871967
+  },
+  {
+    "college_name": "JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha",
+    "region": "Wardha",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 37.6014199
+  },
+  {
+    "college_name": "Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 46.0832398
+  },
+  {
+    "college_name": "Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Information Technology",
+    "cutoff_percentile": 75.3388801
+  },
+  {
+    "college_name": "Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Communication",
+    "cutoff_percentile": 61.0757290
+  },
+  {
+    "college_name": "Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 57.8069025
+  },
+  {
+    "college_name": "Swaminarayan Siddhanta Institute Of Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 15.4858883
+  },
+  {
+    "college_name": "Swaminarayan Siddhanta Institute Of Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 28.7732713
+  },
+  {
+    "college_name": "Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni",
+    "region": "Ballarpur",
+    "branch": "Food Technology",
+    "cutoff_percentile": 9.6129001
+  },
+  {
+    "college_name": "Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 30.9483531
+  },
+  {
+    "college_name": "K.D.M. Education Society, Vidharbha Institute of Technology, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 38.0226644
+  },
+  {
+    "college_name": "K.D.M. Education Society, Vidharbha Institute of Technology, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 43.5428977
+  },
+  {
+    "college_name": "K.D.M. Education Society, Vidharbha Institute of Technology, Umred Road, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 32.9231840
+  },
+  {
+    "college_name": "Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 2.8013935
+  },
+  {
+    "college_name": "Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur",
+    
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 42.0646645
+  },
+  {
+    "college_name": "Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 32.5587952
+  },
+  {
+    "college_name": "V M Institute of Engineering and Technology, Dongargaon, Nagpur",
+    "region": "Dongargaon",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 50.7538718
+  },
+  {
+    "college_name": "V M Institute of Engineering and Technology, Dongargaon, Nagpur",
+    "region": "Dongargaon",
+    "branch": "Information Technology",
+    "cutoff_percentile": 31.0231213
+  },
+  {
+    "college_name": "V M Institute of Engineering and Technology, Dongargaon, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 42.5517120
+  },
+  {
+    "college_name": "V M Institute of Engineering and Technology, Dongargaon, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 2.9386279
+  },
+  {
+    "college_name": "V M Institute of Engineering and Technology, Dongargaon, Nagpur",
+    "region": "Nagpur",
+    "branch": "Information Technology",
+    "cutoff_percentile": 31.0231213
+  },
+  {
+    "college_name": "V M Institute of Engineering and Technology, Dongargaon, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 35.2166182
+  },
+  {
+    "college_name": "V M Institute of Engineering and Technology, Dongargaon, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 15.0697103
+  },
+  {
+    "college_name": "Gondia Education Society's Manoharbhai Patel Institute Of Engineering & Technology, Shahapur, Bhandara",
+    "region": "Bhandara",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 25.2072404
+  },
+  {
+    "college_name": "Gondia Education Society's Manoharbhai Patel Institute Of Engineering & Technology, Shahapur, Bhandara",
+    "region": "Bhandara",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 15.8726541
+  },
+  {
+    "college_name": "Gondia Education Society's Manoharbhai Patel Institute Of Engineering & Technology, Shahapur, Bhandara",
+    "region": "Bhandara",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 6.0434238
+  },
+  {
+    "college_name": "Gondia Education Society's Manoharbhai Patel Institute Of Engineering & Technology, Shahapur, Bhandara",
+    "region": "Bhandara",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 34.7461905
+  },
+  {
+    "college_name": "Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 78.5897254
+  },
+  {
+    "college_name": "Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 78.7364688
+  },
+  {
+    "college_name": "Suryodaya College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 51.1269778
+  },
+  {
+    "college_name": "Suryodaya College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 59.8276777
+  },
+  {
+    "college_name": "Suryodaya College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electrical Engineering",
+    "cutoff_percentile": 47.4238693
+  },
+  {
+    "college_name": "Suryodaya College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Electronics and Telecommunication Engg",
+    "cutoff_percentile": 56.2873843
+  },
+  {
+    "college_name": "Suryodaya College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 45.2445766
+  },
+  {
+    "college_name": "Suryodaya College of Engineering & Technology, Nagpur",
+    "region": "Nagpur",
+    "branch": "Computer Science and Engineering (Data Science)",
+    "cutoff_percentile": 53.4068257
+  },
+  {
+    "college_name": "R.V. Parankar College of Engineering & Technology, Arvi, Dist Wardha",
+    "region": "Wardha",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 34.8626522
+  },
+  {
+    "college_name": "R.V. Parankar College of Engineering & Technology, Arvi, Dist Wardha",
+    "region": "Wardha",
+    "branch": "Information Technology",
+    "cutoff_percentile": 23.1924839
+  },
+  {
+    "college_name": "Bajaj Institute of Technology, Wardha",
+    "region": "Wardha",
+    "branch": "Civil Engineering",
+    "cutoff_percentile": 56.0063988
+  },
+  {
+    "college_name": "Bajaj Institute of Technology, Wardha",
+    "region": "Wardha",
+    "branch": "Computer Engineering",
+    "cutoff_percentile": 81.7745907
+  },
+  {
+    "college_name": "Bajaj Institute of Technology, Wardha",
+    "region": "Wardha",
+    "branch": "Mechanical Engineering",
+    "cutoff_percentile": 56.8895744
+  },
+  {
+    "college_name": "Karanjekar College of Engineering & Management, Sakoli",
+    "region": "Sakoli",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 30.8566205
+  },
+  {
+    "college_name": "Somayya Institute of Technology, Chandrapur",
+    "region": "Chandrapur",
+    "branch": "Computer Science and Engineering",
+    "cutoff_percentile": 6.2399253
+  },
+  {
+    "college_name": "Somayya Institute of Technology, Chandrapur",
+    "region": "Chandrapur",
+    "branch": "Mining Engineering",
+    "cutoff_percentile": 69.2754730
+  },
+  {
+    "college_name": "Somayya Institute of Technology, Chandrapur",
+    "region": "Chandrapur",
+    "branch": "Artificial Intelligence and Machine Learning",
+    "cutoff_percentile": 3.2056755
+  }
+  
+]
+ 
