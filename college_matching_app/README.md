@@ -1,4 +1,4 @@
-# college_matching_app
+# COLLEGE MATCHING APP (MHT CET PCM)
 
 A new Flutter project.
 
