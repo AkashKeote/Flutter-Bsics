@@ -1,8 +1,8 @@
-import 'dart:convert';
+import 'dart:convert';  //encode and decode json data
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
+///json efile ko load
 void main() {
   runApp(MyApp());
 }
@@ -14,30 +14,31 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'CET College Predictor',
-      theme: ThemeData(primaryColor: const Color.fromARGB(255, 134, 52, 52)),
-      home: CollegePredictor(),
+      title: 'Percentile Cheker',
+      theme: ThemeData(primaryColor: const Color.fromARGB(255, 253, 193, 193)),
+      home: const ApnCollege(),
     );
   }
 }
 
-class CollegePredictor extends StatefulWidget {
-  const CollegePredictor({super.key});
+class ApnCollege extends StatefulWidget {
+  const ApnCollege({super.key});
 
   @override
   _CollegePredictorState createState() => _CollegePredictorState();
 }
 
-class _CollegePredictorState extends State<CollegePredictor> {
-  TextEditingController percentileController = TextEditingController();
-  List<dynamic> collegeList = [];
-  List<dynamic> filteredColleges = [];
-  bool isLoading = true;
+class _CollegePredictorState extends State<ApnCollege> {
+  final TextEditingController _percentileController = TextEditingController();
+  List<dynamic> _collegeList = [];
+  List<dynamic> _filteredColleges = [];
+  bool _isLoading = true;
+  String? _errorMessage;
 
-  String selectedRegion = "Nagpur";
-  String selectedBranch = "Computer Science and Engineering";
+  String _selectedRegion = "All Regions";
+  String _selectedBranch = "All Branch";
 
-  final List<String> regions = [
+  static const List<String> _regions = [
     "All Regions",
     "Shegaon",
     "Amravati",
@@ -78,8 +79,8 @@ class _CollegePredictorState extends State<CollegePredictor> {
     "Yelur"
   ];
 
-  final List<String> branches = [
-    "Select Branch",
+  static const List<String> _branches = [
+    "All Branch",
     "Information Technology",
     "Electrical Engg[Electronics and Power]",
     "Electronics and Telecommunication Engg",
@@ -134,37 +135,51 @@ class _CollegePredictorState extends State<CollegePredictor> {
   ];
 
   @override
-  void initState() {
-    super.initState();
-    loadCollegeData();
+  void initState() {                                                          //init initialize karta hai ek hi baar call hoga ye method intialize task ko handle karega
+    super.initState();                                                         //state class ka lifecycle method init object on scren super base class app me bug aur unexpected behvoir hoga if not use
+    _loadCollegeData();                                                           //colg data load
   }
 
-  Future<void> loadCollegeData() async {
-    try {
-      String data = await rootBundle.loadString('assets/colleges.json');
+  Future<void> _loadCollegeData() async {                                              //dont block ui runs in Bg boleto fture asynchrnous fun
+    try {    
+      final data = await rootBundle.loadString('assets/colleges.json');                               //awit means task hone pr dusra code run nhito wait
       setState(() {
-        collegeList = json.decode(data);
-        isLoading = false;
+        _collegeList = json.decode(data);
+       _isLoading = false;
       });
-    } catch (error) {
-      print("Error loading college data: $error");
-      setState(() => isLoading = false);
+    } catch (e) {
+      setState(() {
+        _errorMessage = "Failed to load college data: ";
+        _isLoading = false;
+      });
     }
   }
 
-  void filterColleges() {
-    final userPercentile = double.tryParse(percentileController.text) ?? 0.0;
+  void _filterColleges() {
+    final input = _percentileController.text;
+    if (input.isEmpty) {
+      setState(() => _errorMessage = "Please enter your percentile");
+      return;
+    }
+
+    final userPercentile = double.tryParse(input);
+    if (userPercentile == null || userPercentile < 0 || userPercentile > 100) {
+      setState(() => _errorMessage = "Invalid percentile value (0-100)");
+      return;
+    }
 
     setState(() {
-      filteredColleges = collegeList.where((college) {
-        final matchesPercentile =
-            college["cutoff_percentile"] <= userPercentile;
-        final matchesRegion = selectedRegion == "All Regions"
-            ? true
-            : college["college_name"].contains(selectedRegion);
-        final matchesBranch = college["branch"] == selectedBranch;
+      _errorMessage = null;
+      _filteredColleges = _collegeList.where((college) {
+        final collegePercentile = college["cutoff_percentile"] as double;
+        final matchesRegion = _selectedRegion == "All Regions" ||
+            (college["region"] as String).contains(_selectedRegion);
+        final matchesBranch = _selectedBranch == "All Branch" ||
+            (college["branch"] as String).contains(_selectedBranch);
 
-        return matchesPercentile && matchesRegion && matchesBranch;
+        return collegePercentile <= userPercentile &&
+            matchesRegion &&
+            matchesBranch;
       }).toList()
         ..sort(
             (a, b) => b["cutoff_percentile"].compareTo(a["cutoff_percentile"]));
@@ -174,120 +189,105 @@ class _CollegePredictorState extends State<CollegePredictor> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("MHTCET College Predictor"),
-        centerTitle: true,
-        backgroundColor: const Color.fromARGB(255, 197, 229, 255),
-        elevation: 4,
-      ),
-      body: isLoading
-          ? Center(child: CircularProgressIndicator())
+        appBar: AppBar(title: Text("MHT CET PCM"),centerTitle: true,),
+      body: _isLoading
+          ? const Center(child: CircularProgressIndicator())
           : Padding(
-              padding: EdgeInsets.all(16.0),
+              padding: const EdgeInsets.all(16.0),
               child: Column(
                 children: [
                   TextField(
-                    controller: percentileController,
+                    controller: _percentileController,
                     keyboardType:
-                        TextInputType.numberWithOptions(decimal: true),
+                        const TextInputType.numberWithOptions(decimal: true),
                     decoration: InputDecoration(
-                      labelText: "Enter Your CET Percentile",
-                      suffixIcon: Icon(Icons.percent),
+                      labelText: "Enter Your Percentile (0-100)",
+                      suffixIcon: const Icon(Icons.percent),
                       filled: true,
                       fillColor: Colors.white,
+                      errorText: _errorMessage,
                     ),
                   ),
-                  SizedBox(height: 16),
-                  DropdownButtonFormField(
-                    value: selectedRegion,
-                    isExpanded: true,
-                    decoration: InputDecoration(
-                      filled: true,
-                      fillColor: Colors.white,
-                    ),
-                    items: regions
-                        .map((region) => DropdownMenuItem(
-                              value: region,
-                              child: Text(region),
-                            ))
-                        .toList(),
-                    onChanged: (value) =>
-                        setState(() => selectedRegion = value.toString()),
-                  ),
-                  SizedBox(height: 16),
-                  DropdownButtonFormField(
-                    value: selectedBranch,
-                    isExpanded: true,
-                    decoration: InputDecoration(
-                      filled: true,
-                      fillColor: Colors.white,
-                    ),
-                    items: branches
-                        .map((branch) => DropdownMenuItem(
-                              value: branch,
-                              child: Text(branch),
-                            ))
-                        .toList(),
-                    onChanged: (value) =>
-                        setState(() => selectedBranch = value.toString()),
-                  ),
-                  SizedBox(height: 20),
+                  const SizedBox(height: 16),
+                  _buildDropdown(_regions, _selectedRegion, (value) {
+                    setState(() => _selectedRegion = value!);
+                  }),
+                  const SizedBox(height: 16),
+                  _buildDropdown(_branches, _selectedBranch, (value) {
+                    setState(() => _selectedBranch = value!);
+                  }),
+                  const SizedBox(height: 20),
                   ElevatedButton.icon(
-                    icon: Icon(Icons.search),
-                    label: Text("Find Colleges"),
+                    icon: const Icon(Icons.search_off_outlined),
+                    label: const Text("Find Colleges"),
                     style: ElevatedButton.styleFrom(
-                      padding:
-                          EdgeInsets.symmetric(horizontal: 32, vertical: 14),
+                      padding: const EdgeInsets.symmetric(
+                          horizontal: 32, vertical: 14),
                       backgroundColor: const Color.fromARGB(255, 227, 239, 255),
                     ),
-                    onPressed: filterColleges,
+                    onPressed: _filterColleges,
                   ),
-                  SizedBox(height: 24),
+                  const SizedBox(height: 24),
                   Expanded(
-                    child: filteredColleges.isEmpty
-                        ? Center(
+                    child: _filteredColleges.isEmpty
+                        ? const Center(
                             child: Text(
-                              'No colleges found for the selected criteria.',
-                              style: TextStyle(fontSize: 16, color: Colors.red),
-                            ),
-                          )
-                        : ListView.separated(
-                            itemCount: filteredColleges.length,
-                            separatorBuilder: (_, __) => Divider(
-                                height: 1, thickness: 2, color: Colors.grey),
-                            itemBuilder: (context, index) {
-                              final college = filteredColleges[index];
-                              return Card(
-                                elevation: 4,
-                                margin: EdgeInsets.symmetric(vertical: 8),
-                                child: ListTile(
-                                  title: Text(
-                                    college["college_name"],
-                                    style:
-                                        TextStyle(fontWeight: FontWeight.bold),
-                                  ),
-                                  subtitle: Column(
-                                    crossAxisAlignment:
-                                        CrossAxisAlignment.start,
-                                    children: [
-                                      Text("Branch: ${college["branch"]}"),
-                                      Text(
-                                        "CutOff: ${college["cutoff_percentile"].toStringAsFixed(2)}%",
-                                        style: TextStyle(
-                                            fontStyle: FontStyle.italic),
-                                      ),
-                                    ],
-                                  ),
-                                  trailing:
-                                      Icon(Icons.arrow_forward_ios, size: 16),
-                                ),
-                              );
-                            },
-                          ),
+                                "No colleges found matching your criteria"))
+                        : _buildCollegeList(),
                   ),
                 ],
               ),
             ),
+    );
+  }
+
+  Widget _buildDropdown(
+      List<String> items, String value, ValueChanged<String?> onChanged) {
+    return DropdownButtonFormField<String>(
+      value: value,
+      isExpanded: true,
+      decoration: const InputDecoration(
+        filled: true,
+        fillColor: Colors.white,
+      ),
+      items: items
+          .map((item) => DropdownMenuItem(
+                value: item,
+                child: Text(item),
+              ))
+          .toList(),
+      onChanged: onChanged,
+    );
+  }
+
+  Widget _buildCollegeList() {
+    return ListView.separated(
+      itemCount: _filteredColleges.length,
+      separatorBuilder: (_, __) => const Divider(height: 1, thickness: 2),
+      itemBuilder: (context, index) {
+        final college = _filteredColleges[index];
+        return Card(
+          elevation: 4,
+          margin: const EdgeInsets.symmetric(vertical: 8),
+          child: ListTile(
+            title: Text(
+              college["college_name"],
+              style: const TextStyle(fontWeight: FontWeight.bold),
+            ),
+            subtitle: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text("Branch: ${college["branch"]}"),
+                Text(
+                  "Cutoff: ${(college["cutoff_percentile"] as double).toStringAsFixed(2)}%",
+                  style: const TextStyle(fontStyle: FontStyle.italic),
+                ),
+              ],
+            ),
+            trailing: const Icon(Icons.arrow_forward_ios, size: 16),
+          ),
+        );
+      },
     );
   }
 }
