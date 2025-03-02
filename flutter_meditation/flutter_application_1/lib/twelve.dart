@@ -6,6 +6,8 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -18,6 +20,8 @@ class MyApp extends StatelessWidget {
 }
 
 class LoginPage extends StatelessWidget {
+  const LoginPage({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -47,7 +51,8 @@ class LoginPage extends StatelessWidget {
               SizedBox(height: 60),
               ElevatedButton.icon(
                 style: ElevatedButton.styleFrom(
-                  foregroundColor: Colors.white, backgroundColor: Color(0xFF1877F2),
+                  foregroundColor: Colors.white,
+                  backgroundColor: Color(0xFF1877F2),
                   minimumSize: Size(double.infinity, 50),
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(30),
@@ -60,7 +65,8 @@ class LoginPage extends StatelessWidget {
               SizedBox(height: 20),
               OutlinedButton.icon(
                 style: OutlinedButton.styleFrom(
-                  foregroundColor: Colors.grey[700], minimumSize: Size(double.infinity, 50),
+                  foregroundColor: Colors.grey[700],
+                  minimumSize: Size(double.infinity, 50),
                   side: BorderSide(color: Colors.grey[300]!),
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(30),
@@ -103,7 +109,8 @@ class LoginPage extends StatelessWidget {
               SizedBox(height: 30),
               ElevatedButton(
                 style: ElevatedButton.styleFrom(
-                  foregroundColor: Colors.white, backgroundColor: Color(0xFF7F83FF),
+                  foregroundColor: Colors.white,
+                  backgroundColor: Color(0xFF7F83FF),
                   minimumSize: Size(double.infinity, 50),
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(30),
